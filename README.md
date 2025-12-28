@@ -17,7 +17,7 @@ Stop writing complex Regex to parse bank slips. This API detects and extracts:
 
 You can use the native `requests` library in Python.
 
-1. **[Get your Free API Key here](https://rapidapi.com/seu-user/api/boleto-parser-brazil)** (RapidAPI handles the keys).
+1. **[Get your Free API Key here](https://rapidapi.com/junioroliveira944/api/boleto-parser-brazil)** (RapidAPI handles the keys).
 2. Run the code:
 
 ```python
